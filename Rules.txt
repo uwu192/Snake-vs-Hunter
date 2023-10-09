@@ -1,0 +1,20 @@
+The game will usually be 2 players (Can be updated to 1 player vs computer later):
+---------------------------------------------------------------
+P1:Snake:
+Mission: CATCH HUNTER
+-Move using WASD
+-Just like in a normal snake game, food lumps will dropped randomly on the map
+-The foods have apples and bananas:
++Apple: Eating increases movement speed and body length, helping to catch hunters
++Banana: Eat one more time to use the skill: You can press space to jump in front of you
+(Fact: A snake needs to eat about 7 apples to move as fast as a hunter)
+----------------------------------------------------------------
+P2: Hunter
+Mission: Destroy the SNAKE
+-Move using the navigation bar
+-Gives three bombs at the beginning of the game and glide skill (recovers every 2 seconds). Left-click to drop a bomb, right-click to glide
+-Bombs will also be dropped around the map, you can pick them up to continue dropping bombs
+-Bomb:
++Flashes twice after releasing and explodes in a cross pattern
++If it hits the snake's body, it will lose half part of its body and reduce its movement speed
++If it hits the head, it dies!
